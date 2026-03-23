@@ -46,12 +46,12 @@ Assertions are used to verify:
 
 ## 📸 Screenshots
 
-| Description | File |
-|------------|------|
-| Products Page | figure1_products_page.png |
-| Adding Products | figure2_selected_products_added.png |
-| Cart Page | figure3_cart_page.png |
-| Test Result | figure4_test_passed.png |
+| Description | Preview |
+|------------|--------|
+| Products Page | <a href="figure1_products_page.png"><img src="figure1_products_page.png" width="700"/></a> |
+| Adding Products | <a href="figure2_selected_products_added.png"><img src="figure2_selected_products_added.png" width="700"/></a> |
+| Cart Page | <a href="figure3_cart_page.png"><img src="figure3_cart_page.png" width="700"/></a> |
+| Test Result | <a href="figure4_test_passed.png"><img src="figure4_test_passed.png" width="700"/></a> |
 
 ## ▶️ How to Run
 
