@@ -65,7 +65,7 @@ pip install selenium
 
 # Run test
 python test.py
-
+```
 ## 👨‍💻 Author
 
 Sabir Suleymanli  
